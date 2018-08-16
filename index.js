@@ -1,3 +1,5 @@
+// OPEN INDEX.HTML in the browser to play with these selectors in the DOM. 
+
 function getFirstSelector(selector){
     return document.querySelector(selector);
 }
